@@ -17,6 +17,7 @@ import io.rong.imkit.RongIM;
  * Created by ly on 2016/7/30.
  */
 public class MyApplication extends Application {
+    //
 
     public static final String SHARE_VALUES = "liveshow";// 全局共享 标示
     public static final String ISGUDIE = "isgudie";// 是否展示过引导页  0-没有 1-有
